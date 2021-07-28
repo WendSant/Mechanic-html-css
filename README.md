@@ -27,5 +27,5 @@ Imagens do projeto:
  Este Projeto foi feito utilizando:
 
 
-✔️ HTML5✔️ CSS3
+🚀 HTML5    🚀 CSS3
  </div>
