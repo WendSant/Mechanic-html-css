@@ -20,10 +20,8 @@ Imagens do projeto:
 
  ## 💻 Tecnologias
 
- Este Projeto foi feito utilizando as seguintes tecnologias:
+ Este Projeto foi feito utilizando:
 
 
-✔️ HTML5
-✔️ CSS3
-✔️ JavaScript
+✔️ HTML5✔️ CSS3
  </div>
