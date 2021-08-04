@@ -2,7 +2,7 @@
     Projeto Mecânica
 </h1>
 <p align="center">
-            Primeiro projeto que fiz sozinho, utilizando HTML e CSS. não possuiu responsividade e nem muitas funções, apenas um site estático. A ideia do projeto surgiu diante de um desafio do curso do ProgramadorBr onde foi dado que deveriamos fazer um projeto para algum negócio local.
+            Primeiro projeto que fiz sozinho quando comecei a estudar, utilizando HTML e CSS. não possuiu responsividade e nem muitas funções, apenas um site estático. A ideia do projeto surgiu diante de um desafio do curso do ProgramadorBr onde foi dado que deveriamos fazer um projeto para algum negócio local.
 </p>
 <p align="center">
 Site hospedado no netlify:
